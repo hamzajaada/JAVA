@@ -25,10 +25,8 @@ public class StudentDaoImpl  implements StudentDao{
     @Override
     public Student getStudent(int rollNo) {
        return students.get(rollNo);
-    }
     @Override
     public void updateStudent(Student student) {
       students.get(student.getRollNo()).setName(student.getName());
-    }
-    
+    }  
 }
