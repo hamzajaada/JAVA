@@ -9,7 +9,7 @@ public class Main {
             System.out.println("le nombre entrer est = " +b.GetX());
 
         }catch(ErrConst e){
-                System.out.println("le nombre que vous avez entrer est negatifs = " +e.x);
+                e.getMessage();
         }
     }
 }

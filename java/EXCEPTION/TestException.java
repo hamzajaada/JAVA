@@ -9,17 +9,18 @@ public class TestException {
         int [] t = {6,2,7,9,7};
         try{ 
              System.out.println("debut");
-         affectation(2, t);
+            affectation(2, t);
         System.out.println("affectation reussite");
         }
-        catch(ArithmeticException e){
-            System.out.println("operation impossible");
-            System.out.println("fin");
+         catch(ArithmeticException e){
+            System.out.println("ArithmeticException");
+            System.out.println("fin1");
         }
         catch(ArrayIndexOutOfBoundsException e){
-            System.out.println("operation ");
+            System.out.println("ArrayIndexOutOfBoundsException");
             System.out.println("fin");
         } 
+     //une fois il trouve un exception va il ne voire pas les autres exeception il continue ,
       
     }
 }

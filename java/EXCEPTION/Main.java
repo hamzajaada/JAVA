@@ -16,6 +16,9 @@ public class Main {
             // Gérer l'exception ici, par exemple, afficher un message d'erreur
             System.err.println("Erreurde deplacement " + e.getMessage());
         }
+        finally{
+            System.out.println("FIN");
+        }
     }
 }
 

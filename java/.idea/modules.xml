@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ISIL.iml" filepath="$PROJECT_DIR$/ISIL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFRAME/JFRAME.iml" filepath="$PROJECT_DIR$/JFRAME/JFRAME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingloTon/SingloTon.iml" filepath="$PROJECT_DIR$/SingloTon/SingloTon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jframeprojet/jframeprojet.iml" filepath="$PROJECT_DIR$/jframeprojet/jframeprojet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste1/teste1.iml" filepath="$PROJECT_DIR$/teste1/teste1.iml" />
+    </modules>
+  </component>
+</project>

@@ -10,6 +10,11 @@ public class Her extends Forme {
     public  void perimetre(){
         System.out.println("hello");
     }
+    @Override
+    public double surface() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'surface'");
+    }
 
 
     

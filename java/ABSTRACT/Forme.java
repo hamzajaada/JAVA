@@ -11,7 +11,7 @@ public abstract class Forme {
         System.out.println(y);
     }
     // les fonction abstrait non pas un corp 
-    public abstract void perimetre();
+        public abstract void perimetre();
         public abstract double surface();
 
 }

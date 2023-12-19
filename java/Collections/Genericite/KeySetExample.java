@@ -15,7 +15,7 @@ public class KeySetExample {
         Iterator<String> it = keySet.iterator();
         System.out.println("parcourir le map avec keyset");
         for (String key : keySet) {
-            System.out.println("Key: " + key+ "  "+map.get(key));
+            System.out.println("Key: " + key+ " , Value "+map.get(key));
         }
         System.out.println("--------------");
         while (it.hasNext()) {
