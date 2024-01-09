@@ -1,0 +1,26 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\JAVA\\java\\mysql-connector-j-8.2.0.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\micrometer-commons-1.12.1.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\micrometer-observation-1.12.1.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-aop-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-beans-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-context-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-core-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-expression-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-jcl-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\mysql-connector-j-8.2.0.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\micrometer-commons-1.12.1.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\micrometer-observation-1.12.1.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\spring-aop-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\spring-beans-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\spring-context-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\spring-core-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\spring-expression-6.1.2.jar",
+        "c:\\Users\\pc\\Desktop\\ISILE\\ISIL\\JAVA\\jar_files\\spring-jcl-6.1.2.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

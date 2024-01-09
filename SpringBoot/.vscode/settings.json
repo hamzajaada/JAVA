@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\micrometer-commons-1.12.1.jar",
+            "c:\\Users\\pc\\Desktop\\ISILE\\jar_files\\spring-aop-6.1.2.jar"
+        ]
+    }
+}
